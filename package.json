@@ -1,0 +1,27 @@
+{
+  "name": "namestereact",
+  "version": "1.0.0",
+  "description": "create a react app from scratch.",
+ 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumyatechno/namesteReact.git"
+  },
+  "author": "soumya chakraborty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soumyatechno/namesteReact/issues"
+  },
+  "homepage": "https://github.com/soumyatechno/namesteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
